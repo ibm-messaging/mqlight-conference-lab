@@ -4,10 +4,19 @@ This repository contains a set of material used at conferences to demonstrate
 the MQ Light API and how it can be used to write cloud apps which perform
 worker offload.
 
-Check out the
+It is designed to be used in conjunction with the following samples:
+
+| Language | Repository                                                |
+|----------|-----------------------------------------------------------|
+| Java     | <https://github.com/ibm-messaging/mqlight-fishalive-java> |
+| Node.js  | <https://github.com/ibm-messaging/mqlight-fishalive-node> |
+| Python   | <https://github.com/ibm-messaging/mqlight-python-bluemix> |
+| Ruby     | <https://github.com/ibm-messaging/mqlight-fishalive-ruby> |
+
+For further info on these and other samples checkout
 [IBM MQ Light Homepage](https://developer.ibm.com/messaging/mq-light/) or the 
 [Bluemix documentation](https://console.ng.bluemix.net/docs/services/MessageHub/index.html#messagehub) for
-more info on these and other samples.
+
 
 ## What you will learn
 
